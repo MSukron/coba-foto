@@ -1,0 +1,8 @@
+body {
+    font-family: sans-serif;
+    color: red;
+    font-size: 14pt;
+}
+.list:hover {
+    color: green;
+}
